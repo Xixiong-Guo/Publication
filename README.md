@@ -11,4 +11,7 @@ Developed, designed, and performed tornado simulation using numerical model:
 
 Proposed novel mathematical algorithm to simulate fluid-struction interaction problems in more efficient and accuracy manner:
 
-A hybrid adaptive-gridding immersed-boundary lattice Boltzmann method for viscous flow simulations
+[A hybrid adaptive-gridding immersed-boundary lattice Boltzmann method for viscous flow simulations](https://github.com/Xixiong-Guo/Publication/blob/master/Xixiong%20Guo%20et%20al._A%20hybrid%20adaptive-gridding%20immersed-boundary%20lattice%20Boltzmann%20method%20for%20viscous%20flow%20simulations.pdf)
+
+
+Any feedbacks or suggestions are very welcome, please reach me at guoxixiong.ca@gmail.com.
