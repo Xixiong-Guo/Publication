@@ -1,6 +1,6 @@
 # Publication
 
-This repository contains my research publications during my PhD journey. Details can be refer to: [my google scholar profile] (https://scholar.google.ca/citations?user=a1iixIIAAAAJ&hl=en)
+This repository contains my research publications during my PhD journey. Details can be referred to [my google scholar profile] (https://scholar.google.ca/citations?user=a1iixIIAAAAJ&hl=en)
 
 Developed, designed, and performed tornado simulation using numerical model:
 
